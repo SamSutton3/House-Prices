@@ -12,7 +12,7 @@
 
 ## Evaluation table
 
-**|       Algorithm         | R2 Training Accuracy | R2 Validation Accuracy | MAE Training Accuracy | MAE Validation Accuracy |**
+|       Algorithm         | R2 Training Accuracy | R2 Validation Accuracy | MAE Training Accuracy | MAE Validation Accuracy |
 | ------------------------- | ------------- | ------------- | ------------- | ------------- |
 | Linear Regression         | 0.829198	    | 0.650785	    | 21077.066551  | 24909.080194  |
 | Scaled Linear Regression  | 0.780732	    | 0.826103	    | 22503.308689	| 22574.392352  |
