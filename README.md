@@ -38,31 +38,31 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 Description:
 Parameters:
 
-##### Scaled Linear regression
+#### Scaled Linear regression
 Description:
 Parameters:
 
-##### Lasso regression
+#### Lasso regression
 Description:
 Parameters:
 
-##### Second-degree polynomial regression
+#### Second-degree polynomial regression
 Description:
 Parameters:
 
-##### Decision Tree regression
+#### Decision Tree regression
 Description:
 Parameters:
 
-##### Random Forest regression
+#### Random Forest regression
 Description:
 Parameters:
 
-##### GridSearchCV regression
+#### GridSearchCV regression
 Description:
 Parameters:
 
-##### RandomisedSearchCV regression
+#### RandomisedSearchCV regression
 Description:
 Parameters:
 
