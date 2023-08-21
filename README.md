@@ -23,13 +23,48 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 ### Packages
 - 
 ### Data processing
-- Key take aways
+- Dataset loaded in with 81 columns across 1460 rows.
+- Incomplete or irrelvant data including 'Id', 'PoolQC','Fence','MiscFeature' and'Alley'.
+- Important features have been identified to use for the model training and testing data.
+- Encoded categorical data.
   
 ### EDA
-- Key take aways
-
+- Understand the distribution of the target variable and each independent feature.
+- Data analysis across categorical and numerical features.
+- Understanding of correlations to the target variable.
 
 ### Models
+##### Linear regression
+Description:
+Parameters:
+
+##### Scaled Linear regression
+Description:
+Parameters:
+
+##### Lasso regression
+Description:
+Parameters:
+
+##### Second-degree polynomial regression
+Description:
+Parameters:
+
+##### Decision Tree regression
+Description:
+Parameters:
+
+##### Random Forest regression
+Description:
+Parameters:
+
+##### GridSearchCV regression
+Description:
+Parameters:
+
+##### RandomisedSearchCV regression
+Description:
+Parameters:
 
 ## Graphs
 
