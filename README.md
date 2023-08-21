@@ -1,10 +1,32 @@
 # House-Prices
 
-## Workbook files
+## Approach
+
+The work was split up into two seperate workbook files:
+- Data_Processing_and_EDA.ipynb
+- Model.ipynb
+
+This file structure was utilised so that the dataset could be thoroughly analysed and processed, as well as to add modularity and aid in readability. 
+
+The following models were evaluated to identify the best-suited model for the dataset:
+- Linear Regression
+- Scaled Linear Regression
+- Lasso Regression
+- Second-degree Polynomial Regression
+- Decision Tree
+- Random Forest
+
+Hyperparameter tuning was conducted using scikit-learn's 'GridSearchCV' and 'RandomisedSearchCV' functions,.
+
+Evaluate all models using, key metrics (including R-squared and Mean Absolute Error) and visualisations.
+
 
 ### Data processing
-
+- Key take aways
+  
 ### EDA
+- Key take aways
+
 
 ### Models
 
