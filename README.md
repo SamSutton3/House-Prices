@@ -34,7 +34,7 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 - Understanding of correlations to the target variable.
 
 ### Models
-##### Linear regression
+#### Linear regression
 Description:
 Parameters:
 
