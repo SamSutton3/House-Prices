@@ -38,27 +38,28 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 - Understanding of correlations to the target variable.
 
 ## Graphs
-Linear Regression
+
+Linear Regression - Predicted prices vs True prices
 ![Linear Regression](/graphs/LinearRegression.png)
 
 
-Polynomial Regression
+Polynomial Regression - Predicted prices vs True prices
 ![Polynomial Regression](/graphs/PolynomialRegression.png)
 
 
-Decision Tree
+Decision Tree - Predicted prices vs True prices
 ![Decision Tree](/graphs/DecisionTree.png)
 
 
-Random Forest
+Random Forest - Predicted prices vs True prices
 ![Random Forest](/graphs/RandomForest.png)
 
 
-GridSearchCV
+GridSearchCV - Predicted prices vs True prices
 ![Grid Search](/graphs/GridSearch.png)
 
 
-RandomisedSearchCV
+RandomisedSearchCV - Predicted prices vs True prices
 ![Randomised Search](/graphs/RandomisedSearch.png)
 
 ## Evaluation table
