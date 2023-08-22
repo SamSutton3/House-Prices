@@ -38,8 +38,28 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 - Understanding of correlations to the target variable.
 
 ## Graphs
+Linear Regression
+![Linear Regression](/graphs/LinearRegression.png)
 
-![Screenshot](/graphs/DecisionTree.png)
+
+Polynomial Regression
+![Polynomial Regression](/graphs/PolynomialRegression.png)
+
+
+Decision Tree
+![Decision Tree](/graphs/DecisionTree.png)
+
+
+Random Forest
+![Random Forest](/graphs/RandomForest.png)
+
+
+GridSearchCV
+![Grid Search](/graphs/GridSearch.png)
+
+
+RandomisedSearchCV
+![Randomised Search](/graphs/RandomisedSearch.png)
 
 ## Evaluation table
 
