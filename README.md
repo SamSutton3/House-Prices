@@ -4,7 +4,7 @@
 
 The work was split up into two seperate workbook files:
 - Data_Processing_and_EDA.ipynb
-- Model.ipynb
+- Model_Evaluation.ipynb
 
 This file structure was utilised so that the dataset could be thoroughly analysed and processed, as well as to add modularity and aid in readability. 
 
@@ -21,7 +21,11 @@ Hyperparameter tuning was conducted using scikit-learn's 'GridSearchCV' and 'Ran
 Evaluate all models using, key metrics (including R-squared and Mean Absolute Error) and visualisations.
 
 ### Packages
-- 
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+  
 ### Data processing
 - Dataset loaded in with 81 columns across 1460 rows.
 - Incomplete or irrelvant data including 'Id', 'PoolQC','Fence','MiscFeature' and'Alley'.
@@ -33,40 +37,9 @@ Evaluate all models using, key metrics (including R-squared and Mean Absolute Er
 - Data analysis across categorical and numerical features.
 - Understanding of correlations to the target variable.
 
-### Models
-#### Linear regression
-Description:
-Parameters:
-
-#### Scaled Linear regression
-Description:
-Parameters:
-
-#### Lasso regression
-Description:
-Parameters:
-
-#### Second-degree polynomial regression
-Description:
-Parameters:
-
-#### Decision Tree regression
-Description:
-Parameters:
-
-#### Random Forest regression
-Description:
-Parameters:
-
-#### GridSearchCV regression
-Description:
-Parameters:
-
-#### RandomisedSearchCV regression
-Description:
-Parameters:
-
 ## Graphs
+
+![Screenshot](/graphs/DecisionTree.png)
 
 ## Evaluation table
 
